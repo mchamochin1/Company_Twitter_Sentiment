@@ -38,7 +38,7 @@ An exploratoty data analysis is performed to **answer the following business que
 
 #### 4.- PRE-TRAINED MODEL
 
-**A pre-trained model previously developed** is deployed to determine the sentiment of the 3 tweets with the most repercussion. This allos to **answer the following questions**:
+**A pre-trained model previously developed** is deployed to determine the sentiment of the 3 tweets with the most repercussion. This allows to **answer the following questions**:
 
 1. What are the sentiment predictions for such tweets? 
 2. What are the variables most influencing the model's predictions?
@@ -50,10 +50,6 @@ An exploratoty data analysis is performed to **answer the following business que
 The model has been deployed on the [**pythonanywhere**](https://www.pythonanywhere.com/) service provider with endpoints, for example, to return the sentiment prediction when a body of text is provided.
 
 **MySQL** database was deployed in the **Cloud** with [**Amazon Web Services**](https://aws.amazon.com/).
-
-![alt text](https://github.com/mchamochin1/Company_Twitter_Sentiment-/blob/main/images/pythonanywhere.png "Logo pythonanywhere")
-![alt text](https://github.com/mchamochin1/Company_Twitter_Sentiment-/blob/main/images/AWS.png "Logo AWS")
-![alt text](https://github.com/mchamochin1/Company_Twitter_Sentiment-/blob/main/images/mysql.png "Logo MySQL")
-![alt text](https://github.com/mchamochin1/Company_Twitter_Sentiment-/blob/main/images/twitter.png "Logo twitter")
-![alt text](https://github.com/mchamochin1/Company_Twitter_Sentiment-/blob/main/images/machine-learning.jpg "Logo Machine Learning")
-
+<p align="center">
+<img src="https://github.com/mchamochin1/Company_Twitter_Sentiment-/blob/main/images/pythonanywhere.png" alt="" width="200" height="100" /> <img src="https://github.com/mchamochin1/Company_Twitter_Sentiment-/blob/main/images/AWS.png" alt="" width="100" height="100" /> <img src="https://github.com/mchamochin1/Company_Twitter_Sentiment-/blob/main/images/mysql.png" alt="" width="100" height="100" /> <img src="https://github.com/mchamochin1/Company_Twitter_Sentiment-/blob/main/images/twitter.png" alt="" width="100" height="100" /> <img src="https://github.com/mchamochin1/Company_Twitter_Sentiment-/blob/main/images/machine-learning.jpg" alt="" width="100" height="100" />
+</p>
