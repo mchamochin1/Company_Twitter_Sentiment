@@ -1,2 +1,4 @@
-# Company_Twitter_Sentiment-
+# Company_Twitter_Sentiment
 Analyse the sentiment that a Company has in Twitter
+
+
