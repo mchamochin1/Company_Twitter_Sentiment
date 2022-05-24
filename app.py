@@ -3,7 +3,6 @@ import json
 
 from functions import predictSentiment
 
-
 app = Flask(__name__)
 #app.config["DEBUG"] = True
 
@@ -16,7 +15,6 @@ def home():
 # http://127.0.0.1:5000/api/v0/sentiment/tweet_text?text=''
 @app.route('/api/v0/sentiment/tweet_text', methods=['GET'])
 def tweet_text():
-    results = []
     if 'text' in request.args:
         aux_text = str(request.args['text'])
 
