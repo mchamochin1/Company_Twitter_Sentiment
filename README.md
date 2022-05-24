@@ -40,10 +40,10 @@ An exploratoty data analysis is performed to **answer the following business que
 
 **A pre-trained model previously developed** is deployed to determine the sentiment of the 3 tweets with the most repercussion. This allos to **answer the following questions**:
 
-a. What are the sentiment predictions for such tweets? 
-b. What are the variables most influencing the model's predictions?
-c. How could the model be improved?
-d. What other opportunities are foreseen with other ML models to measure the impact of Company's brand and commercial actions?
+1. What are the sentiment predictions for such tweets? 
+2. What are the variables most influencing the model's predictions?
+3. How could the model be improved?
+4. What other opportunities are foreseen with other ML models to measure the impact of Company's brand and commercial actions?
 
 #### DEPLOYEMENT OF THE MODEL WITH ENDPOINTS AND AWS
 
