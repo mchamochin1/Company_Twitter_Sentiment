@@ -51,3 +51,4 @@ The model has been deployed on the [**pythonanywhere**](https://www.pythonanywhe
 
 **MySQL** database was deployed in the **Cloud** with [**Amazon Web Services**](https://aws.amazon.com/).
 
+![alt text](https://github.com/mchamochin1/Company_Twitter_Sentiment-/blob/main/images/pythonanywhere.png "Logo Title Text 1")
