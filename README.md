@@ -1,6 +1,6 @@
 # Company_Twitter_Sentiment
 
-This project analyses the sentiment that a Corporation has in Twitter for a Corporation who wants to develop social media monitoring to measure the impact of their brand and commercial actions.
+This project analyses the sentiment that a Corporation has in Twitter for a Corporation who wants to develop its social media monitoring to measure the impact of their brand and commercial actions.
 
 In order to make this analysis, the following tasks are performed:
 
@@ -46,7 +46,7 @@ d. What other opportunities can you think of where other ML models could be appl
 
 #### DEPLOYEMENT OF THE MODEL WITH ENDPOINTS AND AWS
 
-The model has been deployed on a service provider with an endpoint where it can be sent it a body of text to return the sentiment prediction.
+The model has been deployed on [pythonanywhere](https://www.pythonanywhere.com/) service provider with endpoints, for example, to return the sentiment prediction when a body of text is provided.
 
-All the use cases carried out they were deploed in the Cloud (AWS).
+All the use cases carried out they were deploed in the Cloud [Amazon Web Services](https://aws.amazon.com/).
 
