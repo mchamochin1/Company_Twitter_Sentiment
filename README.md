@@ -36,6 +36,12 @@ An exploratoty data analysis is performed to **answer the following business que
 4. What are the most frequent words?
 5. What is the mathematical correlation observed for the public metrics?
 
+This is an example of the most frequent words in the tweets.
+
+<p align="center">
+<img src="https://github.com/mchamochin1/Company_Twitter_Sentiment-/blob/main/images/output.png" alt="" width="400" height="300" /> 
+</p>
+
 #### 4.- PRE-TRAINED MODEL
 
 **A pre-trained model previously developed** is deployed to determine the sentiment of the 3 tweets with the most repercussion. This allows to **answer the following questions**:
@@ -44,6 +50,12 @@ An exploratoty data analysis is performed to **answer the following business que
 2. What are the variables most influencing the model's predictions?
 3. How could the model be improved?
 4. What other opportunities are foreseen with other ML models to measure the impact of Company's brand and commercial actions?
+
+Sentiment polarity determines if the text expresses the positive, negative or neutral sentiment of the user about the entity in consideration. This is a visualization of the tweets' sentiment polarity. Most of the polarity is positive. 
+
+<p align="center">
+<img src="https://github.com/mchamochin1/Company_Twitter_Sentiment-/blob/main/images/Sentiment.png" alt="" width="400" height="300" /> 
+</p>
 
 #### DEPLOYEMENT OF THE MODEL WITH ENDPOINTS AND AWS
 
