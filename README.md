@@ -54,7 +54,7 @@ This is an example of the most frequent words in the tweets.
 Sentiment polarity determines if the text expresses the positive, negative or neutral sentiment of the user about the entity in consideration. This is a visualization of the tweets' sentiment polarity. Most of the polarity is positive. 
 
 <p align="center">
-<img src="https://github.com/mchamochin1/Company_Twitter_Sentiment-/blob/main/images/sentiment.png" alt="" width="400" height="300" /> 
+<img src="https://github.com/mchamochin1/Company_Twitter_Sentiment-/blob/main/images/sentiment_polarity.png" alt="" width="400" height="300" /> 
 </p>
 
 #### DEPLOYEMENT OF THE MODEL WITH ENDPOINTS AND AWS
