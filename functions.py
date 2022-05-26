@@ -279,16 +279,16 @@ def tweetsInfluentialWords(df):
     log_reg.fit(X, target)
 
     #
-    # Importancia de los coeficientes. 
+    # Importance of the coefficients. 
     # 
 
-    # Total de palabras vectorizadas
+    # Total vectorized words
     #print(len(log_reg.coef_[0]))
 
-    # Cada coeficiente va asociado a una palabra
+    # Each coefficient is associated with a word
     cv.get_feature_names()
 
-    # Montamos un diccionario con palabra -> coeficiente
+    # We set up a dictionary with word -> coefficient
     feature_to_coef = {
         word: coef for word, coef in zip(
             cv.get_feature_names(), log_reg.coef_[0]
