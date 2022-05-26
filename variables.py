@@ -1,17 +1,21 @@
-USERNAME = 'TheBridge_Tech'
-FILENAME = 'data/TheBridge_Tech.csv'
+# Twitter username
+# For example
+USERNAME = 'Corporation' # Twitter @Corporation
+FILENAME = 'data/Corporation.csv'
 
-BEARER_TOKEN = "AAAAAAAAAAAAAAAAAAAAACuWcwEAAAAA630IeSOgGtCq%2BnrgmWepknqmR0E%3DfkJceYWUciKhxIjrPArQlmsMrg4YsX9UGj86RTm73XxXF5HkK8"
-CONSUMER_KEY = "6PrtF01ZpIJjAgOSyavHKwn4L"
-CONSUMER_SECRET = "cxMqo42nxC4qOkdL4dE7HZ3v60m7AhUzpEWyfMVPlLxuylaQCu"
-ACCESS_TOKEN = "2217959742-QPjtJb9QsSSo0pNxSx8YHvxW20jO75J9l5tSGN1"
-ACCESS_TOKEN_SECRET = "4sHfRZu3zlqtmqVCQ9fwUCRYHUuTVgk4KsDyznSUXKTH8"
+# Fill with the particular info after enrolling in the Twitter API
+BEARER_TOKEN = "---"
+CONSUMER_KEY = "---"
+CONSUMER_SECRET = "---"
+ACCESS_TOKEN = "---"
+ACCESS_TOKEN_SECRET = "---"
 
+# As it is needed
 START_TIME = '2022-01-01T00:00:00Z'
 END_TIME =   '2022-05-22T23:59:59Z'
 
-# Database constants
-USERNAME = "admin"
-PASSWORD = "12345678"
-HOST = "database-2.cbii4l6xzk67.eu-west-3.rds.amazonaws.com" 
+# Database constants, these were taken fron RDS AWS
+USERNAME = "---"
+PASSWORD = "---"
+HOST = "---" 
 PORT = 3306
