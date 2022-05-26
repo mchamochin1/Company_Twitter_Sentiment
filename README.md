@@ -39,7 +39,7 @@ An exploratoty data analysis is performed to **answer the following business que
 This is an example of the most frequent words in the tweets.
 
 <p align="center">
-<img src="https://github.com/mchamochin1/Company_Twitter_Sentiment-/blob/main/images/output.png" alt="" width="400" height="300" /> 
+<img src="https://github.com/mchamochin1/Company_Twitter_Sentiment-/blob/main/images/frequent_words.png" alt="" width="400" height="300" /> 
 </p>
 
 #### 4.- PRE-TRAINED MODEL
